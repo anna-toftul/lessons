@@ -3,6 +3,7 @@ pull
 push
 commit
 config - для указания пользовательских настроек
+init - для создания GIT репозитория
 
 
 install plugin presentation assistant
