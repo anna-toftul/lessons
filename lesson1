@@ -2,6 +2,7 @@ fetch
 pull
 push
 commit
+config - для указания пользовательских настроек
 
 
 install plugin presentation assistant
